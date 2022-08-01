@@ -5,6 +5,6 @@ My name is ``Haris``, I'm a ``13 yo.`` I Love Computers And Music. I'm Using **c
 **Html**, **Css**, **JS**, **Python**, **Lua**, **C++**, **C#**
 
 ### Links you may find useful:
-- 🌐 My website: https://www.xarisdev.tk/
+- 🌐 My website: https://www.xarisdev.com/
 - 🔍 My github: https://github.com/vp10gr/
 - 💾 My discord: https://discord.gg/D2SdFrAeM3/
